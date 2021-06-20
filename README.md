@@ -2,7 +2,7 @@
 
 ## **Regras**
 
-> - O program seleciona uma palavra aleatório.
+> - O programa seleciona uma palavra aleatóriamente.
 > - O número de tentativas erradas são 5.
 > - O jogo finaliza quando a palavra é acertada ou atinge o limite de erros.
 
@@ -18,5 +18,9 @@ Ela apresenta:
 - A quantidade de letras da palavra representada por "_" e que são substituidos conforme tiverem acertos.
 - InputText para a sugestão de letras para a palavra.
 
-Se a palavra
+Se a palavra for acertada ou não será apresentado, repectivamente, as seguintes telas com devidas mensagens:
+
+![hagman venceu](https://github.com/elveson/image/blob/main/hangman2.png)
+
+![hagman venceu](https://github.com/elveson/image/blob/main/hangman3.png)
 
