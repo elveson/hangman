@@ -8,4 +8,15 @@
 
 ## **Execução**
 
-Após acessar esta [página](https://) será apresentado a tela abaixo ![alt text](http://url/to/img.png)
+Após acessar esta [página](https://forca.netlify.app/) será apresentado a tela abaixo:
+
+![tela hangman](https://github.com/elveson/image/blob/main/hangman1.png)
+
+Ela apresenta:
+- A quantidade de tentativas disponíveis para acertar a palavra escolhida (vidas).
+- As letras que foram digitadas e não fazem parte da palavra (Letras incorretas).
+- A quantidade de letras da palavra representada por "_" e que são substituidos conforme tiverem acertos.
+- InputText para a sugestão de letras para a palavra.
+
+Se a palavra
+
