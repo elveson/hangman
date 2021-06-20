@@ -24,3 +24,6 @@ Se a palavra for acertada ou não será apresentado, repectivamente, as seguinte
 
 ![hagman venceu](https://github.com/elveson/image/blob/main/hangman3.png)
 
+Logo após, será apresentado ao usuário a possibilidade de jogar novamente:
+
+![hagman venceu](https://github.com/elveson/image/blob/main/hangman4.png)
